@@ -5,9 +5,13 @@ Each file demonstrates the clean, professional structure and formatting used for
 
 ---
 
-## Included Templates
-- [📝 **Standard Non-Disclosure Agreement (NDA)**](https://dashboard.sizle.io/p/bd5b081d4)
-- [📋 **Standard Project Proposal (Generic)**](https://dashboard.sizle.io/p/fa18cb142)
+## 🔗 Live Demo Documents (Hosted on Sizle.io)
+
+| Document | Live Viewer Link |
+|-----------|------------------|
+| 🧾 NDA | [Open NDA Online](https://dashboard.sizle.io/p/bd5b081d4) |
+| 📋 Proposal | [Open Proposal Online](https://dashboard.sizle.io/p/fa18cb142) |
+| 📑 Contract | [Open Contract Online](https://dashboard.sizle.io/p/fa18cb142) |
 
 All templates are:
 - Two pages (A4)
