@@ -7,11 +7,27 @@ Each file demonstrates the clean, professional structure and formatting used for
 
 ## 🔗 Live Demo Documents (Hosted on Sizle.io)
 
-| Document | Live Viewer Link |
-|-----------|------------------|
-| 🧾 NDA | [Open NDA Online](https://dashboard.sizle.io/p/bd5b081d4) |
-| 📋 Proposal | [Open Proposal Online](https://dashboard.sizle.io/p/fa18cb142) |
-| 📑 Contract | [Open Contract Online](https://dashboard.sizle.io/p/fa18cb142) |
+## 🚀 Live Templates
+
+<table>
+  <tr>
+    <th>Document</th>
+    <th>Live Viewer Link</th>
+  </tr>
+  <tr>
+    <td>🧾 NDA</td>
+    <td><a href="https://dashboard.sizle.io/p/bd5b081d4" target="_blank">Open NDA Online →</a></td>
+  </tr>
+  <tr>
+    <td>📋 Proposal</td>
+    <td><a href="https://dashboard.sizle.io/p/fa18cb142" target="_blank">Open Proposal Online →</a></td>
+  </tr>
+  <tr>
+    <td>📑 Contract</td>
+    <td><a href="https://dashboard.sizle.io/p/fa18cb142" target="_blank">Open Contract Online →</a></td>
+  </tr>
+</table>
+
 
 All templates are:
 - Two pages (A4)
