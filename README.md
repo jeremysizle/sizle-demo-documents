@@ -6,7 +6,7 @@ Each file demonstrates the clean, professional structure and formatting used for
 ---
 
 ## Included Templates
-- [📝 **Standard Non-Disclosure Agreement (NDA)](https://dashboard.sizle.io/p/bd5b081d4)
+- [📝 **Standard Non-Disclosure Agreement (NDA)**](https://dashboard.sizle.io/p/bd5b081d4)
 - [📋 **Standard Project Proposal (Generic)**](https://dashboard.sizle.io/p/fa18cb142)
 
 All templates are:
