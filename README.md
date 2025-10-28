@@ -13,7 +13,7 @@ All templates are:
 - Two pages (A4)
 - Professionally typeset (Helvetica/Inter)
 - Fully cross-industry and lawyer-ready
-- Ideal for testing Sizle’s document tracking, e-signature, and analytics features
+- Ideal for testing Sizle’s document tracking, e-signature and analytics features
 
 ---
 
@@ -24,4 +24,4 @@ Upload and test these templates in a live Deal Room here:
 ---
 
 ### ⚖️ License
-Licensed under the **MIT License** — free to use, edit, or distribute with attribution.
+Licensed under the **MIT License**, free to use, edit, or distribute with attribution.
